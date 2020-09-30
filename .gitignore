@@ -1,0 +1,12 @@
+.idea
+target/
+.sbtopts
+*.DS_Store
+.vscode
+# https://scalameta.org/metals/
+project/metals.sbt
+.metals
+.bloop
+*.iml
+local-dev/*/data
+**/*.avsc
